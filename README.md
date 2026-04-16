@@ -2,7 +2,11 @@
 Repositorio referente a las actividades guiadas de la asignatura Algoritmos de Optimización, del máster de IA, de la VIU
 
 AG-1
-- Torres de Hanoi - Divide y venceras
-- Cambio de monedas - Técnica voraz
-- N Reinas - Vuelta Atrás(Backtracking)
-- Opcional: Encontrar los dos puntos más cercanos
+- Divide y venceras
+- Técnica voraz
+- Vuelta Atrás(Backtracking)
+
+AG-2
+- Programación_dinámica
+- Ramificación y poda
+- Descenso del gradiente
